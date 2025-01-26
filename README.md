@@ -5,7 +5,7 @@ The goal of the research to optimze the movement operation for minimizing time a
 The dataset could vary according to the assumptions and consideration to limit the scope of the research.   
 
 Warning!: This is just a code progress, it hasn't been fully implemented in real life as it is open for other reserachers to create a better metaheuristics algorithm.
-all written codes belongs to @sagarabilly.
+all written codes belongs to @sagarabilly and it is developed in completion for master's graduate programs in Science and Technology Department of Sophia University, Tokyo, Japan.
 
 Feel free to see this as a reference. 
 
@@ -15,5 +15,6 @@ Consist of 3 parts:
 3. Result testing and Obj.value Calculation (testing with penalty2.py)
 
 For more information regarding the mathematical model and test results, please see the publication research.
+IEOM Conference Series: Industrial Engineering and Operation Management
 https://index.ieomsociety.org/index.cfm/article/view/ID/11826
 

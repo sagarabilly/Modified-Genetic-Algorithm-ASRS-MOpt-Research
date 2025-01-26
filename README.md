@@ -1,8 +1,11 @@
 # Research Publication Progress Record
 
 This GitHub repository is intended to show the progress record for modified genetic algorithm in correspond with the research publication.
-Warning!: This is just a code progress, it hasn't been fully implemented yet.
-all the written codes belongs to @sagarabilly.
+The goal of the research to optimze the movement operation for minimizing time and penalty points that the SBS/RS machine took to finish the tasks listed in the dataset.
+The dataset could vary according to the assumptions and consideration to limit the scope of the research.   
+
+Warning!: This is just a code progress, it hasn't been fully implemented in real life as it is open for other reserachers to create a better metaheuristics algorithm.
+all written codes belongs to @sagarabilly.
 
 Feel free to see this as a reference. 
 
@@ -10,3 +13,7 @@ Consist of 3 parts:
 1. Gurobi Math Modelling (Math Model.py)
 2. Modified Genetic Algorithm (Algorithm SBSRS Checkpoint 2.py)
 3. Result testing and Obj.value Calculation (testing with penalty2.py)
+
+For more information regarding the mathematical model and test results, please see the publication research.
+https://index.ieomsociety.org/index.cfm/article/view/ID/11826
+

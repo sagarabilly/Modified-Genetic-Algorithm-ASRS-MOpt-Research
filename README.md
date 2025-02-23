@@ -6,7 +6,7 @@ The dataset could vary according to the assumptions and consideration to limit t
 
 ![alt text](sbsrs_mechanism.png)
 
-Warning!: This is just a code progress, it hasn't been fully implemented in real life as it is open for other reserachers to create a better metaheuristics algorithm.
+Note: This is still just a code progress, it hasn't been fully implemented in real life as it is open for other reserachers to create a better metaheuristics algorithm.
 all written codes belongs to sagara and it is developed in completion for master's graduate programs in Science and Technology Department of Sophia University, Tokyo, Japan.
 
 Feel free to see this as a reference. 

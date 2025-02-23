@@ -16,4 +16,4 @@ Consist of 3 parts:
 2. Modified Genetic Algorithm (Algorithm SBSRS Checkpoint 2.py)
 3. Result testing and Obj.value Calculation (testing with penalty2.py)
 
-For more information regarding the mathematical model and test results, please refer to my published research paper. IEOM Conference Series: Industrial Engineering and Operation Management
+For more information regarding the mathematical model and test results, please refer to the published research paper on my Linkedin. IEOM Conference Series: Industrial Engineering and Operation Management

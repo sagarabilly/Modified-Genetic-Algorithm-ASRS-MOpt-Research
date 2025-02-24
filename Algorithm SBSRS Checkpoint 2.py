@@ -1,3 +1,11 @@
+"""
+--------Modified Genetic Algorithm--------
+Shuttle Based Storage and Retrieval System
+
+Checkpoint: 2.0
+Made in completion of thesis research (2022)
+"""
+
 import random
 import math
 import time

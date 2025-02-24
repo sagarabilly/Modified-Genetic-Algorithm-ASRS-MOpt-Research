@@ -137,7 +137,7 @@ mdl.optimize()
 #model solution
 mdl.printAttr('X') 
 
-#check/debug
+#debug and checking...
 #sol = mdl.getAttr('X',mdl.getVars())
 
 #for v in mdl.getVars(): 

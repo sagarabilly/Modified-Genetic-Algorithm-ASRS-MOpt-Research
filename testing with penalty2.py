@@ -1,5 +1,10 @@
+"""
+---------Mathematical Model Formutlation--------
+--------Exact Method Solution with Gurobi-------
 
-"""  """
+With Order Schedule FCFS Penalty 
+Made in completion for thesis research (2022)
+"""
 
 import random
 import math

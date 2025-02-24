@@ -12,8 +12,8 @@ all written codes belongs to sagara and it is developed in completion for master
 Feel free to see this as a reference. 
 
 Consist of 3 parts:
-1. Gurobi Math Modelling (Math Model.py)
-2. Modified Genetic Algorithm (Algorithm SBSRS Checkpoint 2.py)
-3. Result testing and Obj.value Calculation (testing with penalty2.py)
+1. Gurobi Main mathematical model for exact solution (math_model.py)
+2. Modified Genetic Algorithm (mga_sbsrs_checkpoint2.py)
+3. Mathematical Model Result Testing and Obj.value Calculation, math model with penalty (testing_with_penalty.py)
 
 For more information regarding the mathematical model and test results, please refer to the published research paper on my Linkedin. IEOM Conference Series: Industrial Engineering and Operation Management

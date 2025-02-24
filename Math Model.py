@@ -1,5 +1,9 @@
+"""
+---------Mathematical Model Formutlation--------
+--------Exact Method Solution with Gurobi-------
 
-""" By Billy Sagara """
+Made in completion for thesis research (2022)
+"""
 
 import random
 import math
@@ -132,12 +136,13 @@ mdl.optimize()
     
 #model solution
 mdl.printAttr('X') 
-#maybe ?? this value counts starts from the latest suffix [1,1], [1,2], [1,3]...etc
+
+#check/debug
 #sol = mdl.getAttr('X',mdl.getVars())
 
 #for v in mdl.getVars(): 
 #    print(v.x)
 
-#infeasibility analyzer
+#For analyzing infeasibility
 #mdl.computeIIS()
 #mdl.feasRelaxS(0,True,False,True)

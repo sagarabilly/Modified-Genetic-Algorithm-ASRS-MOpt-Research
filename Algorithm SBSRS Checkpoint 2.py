@@ -4,6 +4,8 @@ import time
 from gurobipy import Model, GRB, quicksum 
 import operator
 
+#------------------------INITIALIZATION------------------------
+
 #size variables
 n = 10 # number of slots/locations
 m = 3 # number of tiers
@@ -112,8 +114,9 @@ modussku = max(W)
 multpr = 2 #for probability in priority dispatching rule (other start loc)
 comppr = 0 #for probability in priority dispatching rule (start at 0)
 
-#THE ALGORITHM STARTS HERE
-#_____________________________________________
+#--------------------------------------------------------------
+#------------------THE ALGORITHM STARTS HERE-------------------
+#______________________________________________________________
 
 #GENETIC ALGORITHM PARAMETER
 #ngenome = spop*24
@@ -215,6 +218,8 @@ xtop = {}
 ytop = {}
 ztop = {}
 lsttop = []
+
+#-----------------------------DEFINE METHOD----------------------------
 
 # obective function
 def obj(x,y):
@@ -666,8 +671,8 @@ def mutation(lstbestov):
     return zbest,xbest,ybest,lstbest
 
 
-#----MAIN ALGORITHM PROGRAM ----
-#-------------------------------
+#----------------MAIN ALGORITHM PROCESS-------------------
+#---------------------------------------------------------
 
 #FIRST INITIAL SOLUTION
 objinit = []

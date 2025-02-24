@@ -1,6 +1,7 @@
 # Research Publication Progress Record
 
 This GitHub repository is intended to show the progress record for modified genetic algorithm in correspond with the research publication.  
+
 The goal of the research to optimze the movement operation for minimizing time and penalty points that the SBS/RS [Shuttle Based Storage and Retrieval System] machine took to finish the tasks listed in the dataset.
 The dataset could vary according to the assumptions and consideration to limit the scope of the research.  
 The research proposed a new mathematical model formulation along with the exact solution method using Gurobi Optimizer as well as metaheuristic solution method using developed modified genetic algorithm.  
